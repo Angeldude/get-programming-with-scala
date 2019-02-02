@@ -64,57 +64,57 @@ If a lecture isn't an executable program, please see section on running Scala Wo
     - [LESSON 7](unit1/lesson7): Classes as a representation of our world
     - [LESSON 8](unit1/lesson8): CAPSTONE 1
 
-- **UNIT 2: HTTP SERVICE**
-    - [LESSON 9](unit2/lesson9): Imports and packages
-    - [LESSON 10](unit2/lesson10): Access Modifiers
+- **UNIT 2: OBJECT-ORIENTED FUNDAMENTALS**
+    - [LESSON 9](unit2/lesson9): Import and Create Packages
+    - [LESSON 10](unit2/lesson10): Scope your code with Access Modifiers
     - [LESSON 11](unit2/lesson11): Singleton Objects
     - [LESSON 12](unit2/lesson12): Traits as interfaces
-    - [LESSON 13](unit2/lesson13): Pattern Matching
-    - [LESSON 14](unit2/lesson14): Anonymous Functions
-    - LESSON 15: Partial Functions
-    - LESSON 16: HTTP API with http4s
-    - [LESSON 17](unit2/lesson17): CAPSTONE 2
+    - [LESSON 13](unit2/lesson13): CAPSTONE 2
 
-- **UNIT 3: IMMUTABLE DATA AND STRUCTURES**
-    - LESSON 18: Case classes to structure our data			
-    - LESSON 19: Impure and Pure Functions				
-    - LESSON 20: High Order Functions					
-    - LESSON 21: List							
-    - LESSON 22: Map							
-    - LESSON 23: Option							
-    - LESSON 24: Working with Option					
-    - LESSON 25: CAPSTONE 3						
+- **UNIT 3: HTTP SERVICE**
+    - [LESSON 14](unit3/lesson14): Pattern Matching
+    - [LESSON 15](unit3/lesson15): Anonymous Functions
+    - [LESSON 16](unit3/lesson16): Partial Functions
+    - [LESSON 17](unit3/lesson17): HTTP API with http4s
+    - [LESSON 18](unit3/lesson18): CAPSTONE 3
 
-- **UNIT 4: JSON (DE)SERIALIZATION**
-    - LESSON 26: Infix and Postfix Notation				
-    - LESSON 27: Traits as composable block of codes	     		
-    - LESSON 28: Lazy values						
-    - LESSON 29: Groups of Function Parameters				
-    - LESSON 30: Implicit functions and values				
-    - LESSON 31: The IO type						
-    - LESSON 32: JSON (De)serialization with circe				
-    - LESSON 33: CAPSTONE 4									
+- **UNIT 4: IMMUTABLE DATA AND STRUCTURES**
+    - LESSON 19: Case classes to structure our data			
+    - LESSON 20: High Order Functions
+    - LESSON 21: What is Purity?				
+    - LESSON 22: Option							
+    - LESSON 23: Working with Option: map and flatMap
+    - LESSON 24: Working with Option: for-comprehension
+    - LESSON 25: Tuple and Unapply
+    - LESSON 26: CAPSTONE 4						
 
-- **UNIT 5: ERROR HANDLING AND DATA STORAGE**
-    - LESSON 34: Either
-    - LESSON 35: Tuple
-    - LESSON 36: Try: an operation that can fail
-    - LESSON 37: Working with Try
-    - LESSON 38: Database queries with quill
-    - LESSON 39: CAPSTONE 5
+- **UNIT 5: COLLECTIONS**
+    - LESSON 27: Infix and Postfix Notation		
+    - LESSON 28: List							
+    - LESSON 29: Working with List							
+    - LESSON 30: Set		
+    - LESSON 31: Map		
+    - LESSON 32: CAPSTONE 5			
 
-- **UNIT 6: CONCURRENCY**
-    - LESSON 40: Concurrency is hard!
-    - LESSON 41: Future
-    - LESSON 42: Working with Future
-    - LESSON 43: Applicative with cats
-    - LESSON 44: CAPSTONE 6
+- **UNIT 6: ERROR HANDLING AND DATA STORAGE**
+    - LESSON 33: Either
+    - LESSON 34: Try: an operation that can fail
+    - LESSON 35: Working with Try
+    - LESSON 36: Database queries with quill
+    - LESSON 37: CAPSTONE 6
 
-- **UNIT 7: DSL PROGRAMS**
-    - LESSON 45: Pimp your library
-    - LESSON 46: Generics: hide details that do not matter
-    - LESSON 47: Bound your types
-    - LESSON 48: Type Classes
-    - LESSON 49: Working with Type Classes
-    - LESSON 50: Useful type classes with cats
-    - LESSON 51: CAPSTONE 7
+- **UNIT 7: CONCURRENCY**
+    - LESSON 38: Future					
+    - LESSON 39: Working with Future: map and flatMap				
+    - LESSON 40: Working with Future: for-comprehension				
+    - LESSON 41: Future and Promise
+    - LESSON 42: CAPSTONE 7
+
+- **UNIT 8: JSON (DE)SERIALIZATION**
+    - LESSON 43: Traits as composable block of codes	     										
+    - LESSON 44: Lazy values
+    - LESSON 45: By Name Parameters
+    - LESSON 46: Implicit functions and values				
+    - LESSON 47: The IO type						
+    - LESSON 48: JSON (De)serialization with circe				
+    - LESSON 49: CAPSTONE 8
