@@ -1,8 +1,8 @@
-// At the end of lesson 5, I have asked you to write a function to apply the discount to a given price as follows:
+// In lesson 5, you have written a function to apply the discount to a given price as follows:
 // -	0% discount if the price is less than $50
 // -	10% discount if the price is at least $50 but less than $100
 // -	15% discount if the price is at least $100
-// Re-implement it using pattern matching instead of an if…else statement.
+// Re-implement it using pattern matching instead of an if-else construct.
 
 
 def applyDiscount(price: Double) = {
